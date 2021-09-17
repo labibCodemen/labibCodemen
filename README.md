@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @labibCodemen
-- 👀 I’m interested in Codeing
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javscript
 - 💞️ I’m looking to collaborate on Tailwind
 - 📫 How to reach me labibhassan016@gmail.com
